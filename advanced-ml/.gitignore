@@ -1,0 +1,9 @@
+# Datasets (downloadable / regenerable)
+Task1/data/
+
+# Generated heavy artifacts
+Task5/outputs/
+Lab3/tokenizer.json
+
+# Note: weights (*.pt/*.pth/*.safetensors) and *.csv are ignored repo-wide
+# via the root .gitignore. Task4 SVG renders and Lab3/history.json are kept.

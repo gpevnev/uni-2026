@@ -1,0 +1,7 @@
+# YOLO dataset config for Russian road signs (1 class)
+path: /home/greg/git/uni/cv/Lab3/data/dataset
+train: images/train
+val: images/val
+
+names:
+  0: road_sign

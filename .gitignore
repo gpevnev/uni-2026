@@ -1,0 +1,14 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Model weights
+*.pth
+*.pt
+*.safetensors
+
+# Archives
+*.zip
+/cv/Lab1/extracted_data/confirmed_fronts
+
+# Local secrets
+.env

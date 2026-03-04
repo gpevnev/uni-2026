@@ -1,0 +1,7 @@
+path: /home/greg/git/uni/cv/Task2/data/dataset
+train: images/train
+val: images/val
+names:
+  0: window
+  1: door
+  2: balcony

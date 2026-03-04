@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <defs>
+    <linearGradient id="sky" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#0F1A40;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2C3E7B;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#sky)" />
+  <circle cx="100" cy="80" r="1.5" fill="#FFFFFF" />
+  <circle cx="120" cy="70" r="2" fill="#FFFFFF" />
+  <circle cx="150" cy="90" r="1" fill="#FFFFFF" />
+  <circle cx="180" cy="60" r="1.5" fill="#FFFFFF" />
+  <circle cx="200" cy="80" r="1" fill="#FFFFFF" />
+  <circle cx="220" cy="70" r="2" fill="#FFFFFF" />
+  <circle cx="250" cy="90" r="1.5" fill="#FFFFFF" />
+  <circle cx="280" cy="60" r="1" fill="#FFFFFF" />
+  <circle cx="300" cy="80" r="1.5" fill="#FFFFFF" />
+  <circle cx="320" cy="70" r="2" fill="#FFFFFF" />
+  <circle cx="350" cy="90" r="1" fill="#FFFFFF" />
+  <circle cx="380" cy="60" r="1.5" fill="#FFFFFF" />
+  <circle cx="60" cy="40" r="2" fill="#FFFFFF" />
+  <circle cx="80" cy="50" r="1.5" fill="#FFFFFF" />
+  <circle cx="110" cy="30" r="1" fill="#FFFFFF" />
+  <circle cx="130" cy="50" r="1.5" fill="#FFFFFF" />
+  <circle cx="160" cy="40" r="2" fill="#FFFFFF" />
+  <circle cx="30" cy="100" r="1" fill="#FFFFFF" />
+  <circle cx="60" cy="120" r="1.5" fill="#FFFFFF" />
+  <circle cx="90" cy="110" r="2" fill="#FFFFFF" />
+  <circle cx="120" cy="130" r="1.5" fill="#FFFFFF" />
+  <circle cx="150" cy="100" r="1" fill="#FFFFFF" />
+  <g>
+    <circle cx="350" cy="80" r="60" fill="#F4ECD7" />
+    <circle cx="320" cy="60" r="50" fill="#0F1A40" />
+  </g>
+  <polygon points="200,200 220,240 240,200" fill="#08102A" />
+  <polygon points="250,200 270,240 290,200" fill="#08102A" />
+  <polygon points="300,200 320,240 340,200" fill="#08102A" />
+  <polygon points="180,200 200,240 220,200" fill="#08102A" />
+  <polygon points="150,200 170,240 190,200" fill="#08102A" />
+  <polygon points="120,200 140,240 160,200" fill="#08102A" />
+  <polygon points="90,200 110,240 130,200" fill="#08102A" />
+  <polygon points="60,200 80,240 100,200" fill="#08102A" />
+  <rect x="0" y="267" width="400" height="133" fill="#E8F0F7" />
+  <path d="M190,300 C190,300 200,320 210,300 C220,280 230,300 230,300" fill="#E8783A" />
+  <path d="M215,305 C215,305 220,315 225,305 C230,295 235,305 235,305" fill="#B85518" />
+  <path d="M185,305 C185,305 180,315 175,305 C170,295 165,305 165,305" fill="#B85518" />
+  <path d="M205,310 C205,310 210,320 215,310 C220,300 225,310 225,310" fill="#B85518" />
+  <path d="M195,310 C195,310 200,320 205,310 C210,300 215,310 215,310" fill="#B85518" />
+  <path d="M205,305 C205,305 200,315 195,305 C190,295 185,305 185,305" fill="#F4ECD7" />
+  <path d="M200,305 C200,305 202,307 204,305 C206,303 208,305 208,305" fill="#000000" />
+</svg>
